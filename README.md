@@ -1,7 +1,5 @@
-RepRap-meta-proto
-=================
-
-RepRap bounty tracker
+RepRap bounty tracker (prototype)
+=================================
 
 This is a project to track project requests for RepRap related development.
 
@@ -9,4 +7,4 @@ This is a project to track project requests for RepRap related development.
 
 2. To place a bounty, go to bountysource and select the issue.
 
-3. The person who wants to claim a bounty will submit a request to close an issue with a solution provided.
+3. Any person who wants to claim a bounty should propose a solution to the issue, if the solution is satisfactory then the issue will be closed and then the bounty can be claimed
